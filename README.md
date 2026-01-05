@@ -26,6 +26,15 @@ Audio, and Videos.
 The script was tested on a demo folder containing mixed file types
 and successfully organized them into respective folders.
 
+## Demo Screenshots
+
+### Before
+![Before](screenshots/before.png)
+
+### After
+![After](screenshots/after.png)
+
+
 ## Future Improvements
 - Take folder path as user input
 - Add logging support
